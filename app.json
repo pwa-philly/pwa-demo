@@ -1,0 +1,8 @@
+{
+  "name": "PWA Demo",
+  "description": "A barebones app used to demonstrate PWA tools",
+  "repository": "https://github.com/pwa-philly/pwa-demo",
+  "logo": "https://responsivedesign.is/wp-content/uploads/2018/08/PWA-Progressive-Web-App-Logo.png",
+  "keywords": ["pwa", "node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
